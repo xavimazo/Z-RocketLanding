@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z-RocketLanding", "Z-RocketLanding\Z-RocketLanding.csproj", "{53E159EB-3BAD-44C0-AFC0-CDD798533C1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z-RocketLanding.Test", "Z-RocketLanding.Test\Z-RocketLanding.Test.csproj", "{C055CEF7-DDFE-4C2B-8328-A3D2A78A0CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E159EB-3BAD-44C0-AFC0-CDD798533C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E159EB-3BAD-44C0-AFC0-CDD798533C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E159EB-3BAD-44C0-AFC0-CDD798533C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E159EB-3BAD-44C0-AFC0-CDD798533C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C055CEF7-DDFE-4C2B-8328-A3D2A78A0CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C055CEF7-DDFE-4C2B-8328-A3D2A78A0CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C055CEF7-DDFE-4C2B-8328-A3D2A78A0CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C055CEF7-DDFE-4C2B-8328-A3D2A78A0CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2461BB-7B84-4B5D-AF03-42CD49D6FD3A}
+	EndGlobalSection
+EndGlobal
